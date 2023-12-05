@@ -1,22 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to PriorityComm's Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Eventually as we get closer to release, we will update this more and more. But as of right now, this will remain empty.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thank you, please join our Discord at https://discord.gg/wS9CghTkgP
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Thank you,
+PriorityComm Team
